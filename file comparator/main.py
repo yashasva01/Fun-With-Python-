@@ -1,4 +1,4 @@
-"""This is the final program for coursera python data representation"""
+
 IDENTICAL = -1
 
 
